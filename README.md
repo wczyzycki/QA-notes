@@ -1,5 +1,15 @@
 # QA-notes
 
+## General
+
+### Magazines
+[Software Quality Journal](https://www.springer.com/journal/11219/)
+
+### Articles 
+
+#### Mutation testing
+[Test-driven development with mutation testing – an experimental study](https://link.springer.com/article/10.1007/s11219-020-09534-x)
+
 # Microservices
 
 ## HoneyCell pattern
