@@ -28,6 +28,9 @@ https://serverlesspolska.pl/2020/11/16/Najpopularniejsze-problemy-serverless/
 - [Producer](https://kafka.apache.org/documentation/#producerconfigs)
 - [Consumer](https://kafka.apache.org/documentation/#consumerconfigs)
 
+## Client
+[Hosebird Client (hbc)](https://github.com/twitter/hbc)
+
 # Performance
 
 
