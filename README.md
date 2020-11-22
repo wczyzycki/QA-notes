@@ -23,7 +23,8 @@ https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam
 https://serverlesspolska.pl/2020/11/16/Najpopularniejsze-problemy-serverless/
 
 # Kafka
-
+## Documentation
+[Kafka documentation](https://kafka.apache.org/documentation/)
 
 # Performance
 
