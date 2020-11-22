@@ -24,7 +24,9 @@ https://serverlesspolska.pl/2020/11/16/Najpopularniejsze-problemy-serverless/
 
 # Kafka
 ## Documentation
-[Kafka documentation](https://kafka.apache.org/documentation/)
+- [Kafka documentation](https://kafka.apache.org/documentation/)
+- [Producer](https://kafka.apache.org/documentation/#producerconfigs)
+- [Consumer](https://kafka.apache.org/documentation/#consumerconfigs)
 
 # Performance
 
