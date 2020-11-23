@@ -34,6 +34,9 @@ https://serverlesspolska.pl/2020/11/16/Najpopularniejsze-problemy-serverless/
 ## Producer
 [Idempotent producer](https://issues.apache.org/jira/browse/KAFKA-5494)
 
+## Performance improvements
+- [Compression](https://blog.cloudflare.com/squeezing-the-firehose/)
+
 # Performance
 
 
