@@ -31,6 +31,9 @@ https://serverlesspolska.pl/2020/11/16/Najpopularniejsze-problemy-serverless/
 ## Client
 [Hosebird Client (hbc)](https://github.com/twitter/hbc)
 
+## Producer
+[Idempotent producer](https://issues.apache.org/jira/browse/KAFKA-5494)
+
 # Performance
 
 
