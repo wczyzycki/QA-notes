@@ -69,4 +69,8 @@ https://app.gitbook.com/@wojtek-czyzycki/s/testing-notes/~/drafts/-MMe6Q0CUqKFVm
 
 ## Windows Terminal
 
-https://docs.microsoft.com/en-us/windows/terminal/panes
+[Windows Terminal Panels](https://docs.microsoft.com/en-us/windows/terminal/panes)
+
+## Elastic Search
+
+[Java Rest Client](https://www.elastic.co/guide/en/elasticsearch/client/java-rest/7.10/java-rest-high-getting-started-maven.html)
