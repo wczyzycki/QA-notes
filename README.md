@@ -65,6 +65,9 @@ https://app.gitbook.com/@wojtek-czyzycki/s/testing-notes/~/drafts/-MMe6Q0CUqKFVm
 
 ### Structurizr
 
+## Intresting articles
+[Release Notes - TechWriter](http://techwriter.pl/noty-wydania-release-notes-co-jak-dla-kogo/)
+
 # Other tolls
 
 ## Windows Terminal
